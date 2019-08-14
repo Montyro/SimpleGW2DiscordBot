@@ -4,19 +4,19 @@
 
 ## What it can do:
 
-Send a message when a relevant event starts, if alerts are turned on.
+**Send a message when a relevant event starts, if alerts are turned on.**
 
 	It does not send a message for:
 		- Crazed monsters, for these are random.
 		- DryTop, for those happen everyhour and you only need to know at XX:00 starts, at XX:40 storm.
 	
-**Answer this petitions**
+**Answer these petitions:**
 
 	!info, !help or !ayuda (for help)
 	!pact and !pactvendor (for the pact agent vendor locations)
 	!event and !event X (to get the upcoming events in 15/X minutes)
 
-**Also has some options for admins like:**
+**Also has some admin commands like:**
 
 	!admin banUser userid -  to ban users
 	!admin showUser - to list the users that have messaged the bot while uptime.
@@ -52,7 +52,7 @@ Send a message when a relevant event starts, if alerts are turned on.
 
 			· alertsChannel to the id of the channel you want the autoalerts at.
 
-3. Get your bot authentication token and put it on auth.json 
+3. Get your bot authentication token and put it on auth.json (otherwise it wont log in)
 
 4. Install discord.js with 
 
