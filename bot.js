@@ -257,7 +257,7 @@ client.on('message', msg => {
 client.on('disconnect', function(erMsg, code) {
     console.log('----- Bot disconnected from Discord with code', code, 'for reason:', erMsg, '-----');
     reconnect = true;
-    bot.connect();
+    
 });
 
 //Launch the client
