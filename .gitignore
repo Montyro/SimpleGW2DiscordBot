@@ -1,0 +1,6 @@
+
+#Ignore files discord module uses
+node_modules/*
+package-lock.json
+.DS_Store
+

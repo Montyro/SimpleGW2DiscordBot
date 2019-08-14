@@ -1,0 +1,11 @@
+{
+  "name": "SimpleGW2DiscordBot",
+  "version": "1.0.0",
+  "description": "Can send autoalerts with a given timer for events. Also gives information about pact vendors",
+  "main": "bot.js",
+  "author": "Montyro",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.5.1"
+  }
+}
