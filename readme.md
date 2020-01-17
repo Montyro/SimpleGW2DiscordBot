@@ -1,5 +1,3 @@
-![GW2_logo](https://i.imgur.com/N0lFn7f.jpg)
-
 # Simple Guild Wars 2 Discord Bot
 
 ## What it can do:
