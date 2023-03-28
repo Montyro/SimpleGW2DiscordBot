@@ -1,5 +1,7 @@
 # Simple Guild Wars 2 Discord Bot
 
+A discord bot that can send alerts to users whenever a world event is starting, via discord channel. Developed as a project to learn javascript. Not maintained anymore.
+
 ## What it can do:
 
 **Send a message when a relevant event starts, if alerts are turned on.**
